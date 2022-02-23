@@ -1,4 +1,4 @@
-# binary_classifcation_uisng_svm
+# Binary Classification Using Support Vector Machine (SVM)
 Have vou ever watch the movie alien vs predator? Guess yes... Through our visual capability, it's easy for us to differenciate them. Here by using AI, we will try to achieve the same result. We develop a CNN+SVM classifier to predict if a given image is a predator image or an alien image. Therefore we have a binary classifcation to train from scratch. Acceptable result have been obtained but can be imporved by adopting transfer learning technique.
 
 ## Model
